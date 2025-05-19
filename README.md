@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently pursuing a Bachelor's degree in Computer Science at [IST](https://tecnico.ulisboa.pt/en/)(Instituto Superior Técnico) in Lisbon, Portugal.  
+🌱 I'm expanding my knowledge beyond the curriculum by learning about Linux and Git.  
+🎯 My current focus is to explore various areas in computer science to identify where I want to specialize and the skills I need to develop further.  
+
 <!--
 **Tiagon06/Tiagon06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
