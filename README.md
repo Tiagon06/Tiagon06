@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I am Tiago Nogueira!!
 
  - I'm currently pursuing a Bachelor's degree in Computer Science at [IST](https://fenix.tecnico.ulisboa.pt/cursos/leic-t)(Instituto Superior Técnico) in Lisbon, Portugal.  
  - 🌱 I'm expanding my knowledge beyond the curriculum by learning about Linux and Git.  
